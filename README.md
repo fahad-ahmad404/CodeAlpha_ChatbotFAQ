@@ -1,5 +1,3 @@
-paste it straight into GitHub's README editor:
-
 Chatbot for FAQs
 A professional command-line FAQ Chatbot developed in Python as part of the CodeAlpha Artificial Intelligence Internship.
 📌 Project Overview
